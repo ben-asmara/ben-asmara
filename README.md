@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ben-issa
+- 👀 I’m interested in Artificial Intelligence, more precisely, Machine Learning
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on innovative AI projects and research
+- 📫 How to reach me through my email bendaoudaissanoodem@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve been accepted into the CodePath Technical Interview Prep program!
